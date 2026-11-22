@@ -1,0 +1,2 @@
+textual>=0.80
+psutil>=5.9   # optional: accurate live CPU % in the Resource Monitor
