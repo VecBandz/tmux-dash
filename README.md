@@ -6,6 +6,8 @@ See every session, window and pane at a glance. Watch output live, broadcast com
 
 ![Command Center](docs/1_command_center.png)
 
+▶ **[Watch the narrated demo video](docs/demo.mp4)** (1:49)
+
 ## Install
 
 ```bash
